@@ -1,0 +1,24 @@
+{
+    "tips" : [
+        {
+              "img"     : "washing.png",
+              "title"   : "Washer",
+              "date"    : "Today",
+              "details" : "This is today's tip for washer."
+        },
+        {
+              
+              "img"     : "",
+              "title"   : "Placeholder",
+              "date"    : "Today",
+              "details" : "Relax! No tips for today :P"
+        },
+        {
+              
+              "img"     : "washing.png",
+              "title"   : "Dryer",
+              "date"    : "Tomorrow",
+              "details" : "All the best!"
+        }
+    ]
+}
